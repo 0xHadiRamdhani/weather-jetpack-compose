@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**HadsxDev** - Android Developer
+**Hadi Ramdhani** - Mobile Engineer
 
 ---
 
